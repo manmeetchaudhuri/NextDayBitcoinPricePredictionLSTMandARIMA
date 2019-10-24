@@ -1,4 +1,4 @@
-# NextDayBitcoinPricePredictionLSTMandARIMA
+NextDay_BitcoinPricePrediction_LSTMandARIMA
 
 The aim of this project is to perform exploratory data analysis on cryptocurrencies and to develop a machine learning pricing algorithm that is capable of modelling cryptocurrencies to offer next-day pricing prediction. Also, the results of the exploratory data analysis and machine learning algorithm shall be visualized by using requisite design principles. 
 More specifically, the objectives to achieve this are as follows:
